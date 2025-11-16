@@ -13,11 +13,11 @@ public class Main {
 
         do {
             System.out.println("=== Browser History Menu ===");
-            System.out.println("1. Browse (Kunjungi Website Baru)");
+            System.out.println("1. Browse");
             System.out.println("2. View History");
-            System.out.println("3. Back (Kembali)");
+            System.out.println("3. Back");
             System.out.println("4. Keluar");
-            System.out.print("Pilih: ");
+            System.out.print("Pilih : ");
             pilihan = input.nextInt();
 
             switch (pilihan) {
